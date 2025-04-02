@@ -1,8 +1,4 @@
-Yeh raha tera **README.md** file ka content:
 
----
-
-```md
 # Chrome Extension (Manifest V3)
 
 This is a simple Chrome extension built using JavaScript and the latest **Manifest V3**. It helps in learning how to create browser extensions with background scripts, content scripts, and Chrome APIs.
@@ -40,5 +36,3 @@ This is a simple Chrome extension built using JavaScript and the latest **Manife
 Feel free to contribute by **reporting issues** or **suggesting improvements**. Pull requests are welcome! 🚀
 
 ---
-
-Agar tu kuch aur add karna chahta hai, to bata de! 😊
